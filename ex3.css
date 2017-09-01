@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.main{
+	height: 600px;
+	width: 100%;
+	background-color: grey;
+}
+
+.header{
+	height: 100px;
+	width: 100%;
+	background-color: black;
+}
+
+.con{
+	height: 500px;
+	width: 100%;
+	background-color: pink;
+}
+
+.con1{
+	height: 500px;
+	width: 100%;
+	background-color: red;
+
+}
